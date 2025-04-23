@@ -1,0 +1,7 @@
+env                 = "dev"
+subscription_id     = "b17158f1-9101-4ce3-9224-19e1561bbd4b"
+location            = "japaneast"
+resource_group_name = "bastion-appgw-rg"
+vnet_name           = "bastion-vnet"
+subnet_name         = "bastion-subnet"
+vm_size             = "Standard_B1s"
